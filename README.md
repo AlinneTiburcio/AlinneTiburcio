@@ -1,4 +1,4 @@
-## Olá 🌎! Meu nome é Aline Tibúrcio!
+## Olá 🌎! Meu nome é Aline Tibúrcio ❤️
 
 Aqui eu compartilho alguns dos meus projetos pessoais e colaborativos, além dos desenvolvidos no programa Start WebDev Full-Stack da Digital House.
 
@@ -18,6 +18,8 @@ Aqui eu compartilho alguns dos meus projetos pessoais e colaborativos, além dos
 <div>  
 <a href="https://www.linkedin.com/in/alinetiburcio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
-![Snake animation](https://github.com/alinnetiburcio/blob/output/github-contribution-grid-snake.svg)
+
+
+##
+![snake gif](https://github.com/alinnetiburcio/alinnetiburcio/blob/output/github-contribution-grid-snake.gif)
 
