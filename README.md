@@ -3,7 +3,7 @@
 Aqui eu compartilho alguns dos meus projetos pessoais e colaborativos, além dos desenvolvidos no programa Start WebDev Full-Stack da Digital House.
 
 - 👩‍🎓 Estudo Analise e Desenvolvimento de Sistemas, e concluo o curso em jul/2023                
-- 💻 Estou aprendendo: HTML, CSS, JavaScript, React, Angular, Java, Spring boot.
+- 💻 Estou aprendendo: HTML, CSS, JavaScript, React, Angular, Java, Spring boot, MySQL, Git.
 
 ##
 
