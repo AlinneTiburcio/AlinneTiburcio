@@ -1,4 +1,4 @@
-<h1 align = "center">Olá 🌎! Meu nome é Aline Tibúrcio ❤️</h1>
+<h1 align = "center">Hello 🌎! My name is Aline Tibúrcio ❤️</h1>
 
 Aqui eu compartilho alguns dos meus projetos pessoais e colaborativos, além dos desenvolvidos na comunidade DS
 
