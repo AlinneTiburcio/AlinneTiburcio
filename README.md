@@ -1,9 +1,9 @@
 <h1 align = "center">Olá 🌎! Meu nome é Aline Tibúrcio ❤️</h1>
 
-Aqui eu compartilho alguns dos meus projetos pessoais e colaborativos, além dos desenvolvidos no programa Start WebDev Full-Stack da Digital House.
+Aqui eu compartilho alguns dos meus projetos pessoais e colaborativos, além dos desenvolvidos na comunidade DS
 
-- 👩‍🎓 Estudo Analise e Desenvolvimento de Sistemas, e concluo o curso em jul/2023                
-- 💻 Estou aprendendo: HTML, CSS, JavaScript, React, Angular, Java, Spring boot, MySQL, Git.
+- 👩‍🎓 Formada em Analise e Desenvolvimento de Sistemas               
+- 💻 I'm learning Data Science: Python, SQL, Git, Marchine Learning.
 
 ##
 
