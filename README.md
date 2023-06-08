@@ -3,7 +3,7 @@
 Aqui eu compartilho alguns dos meus projetos pessoais e colaborativos, além dos desenvolvidos na comunidade DS
 
 - 👩‍🎓 Formada em Analise e Desenvolvimento de Sistemas               
-- 💻 I'm learning Data Science: Python, SQL, Git, Marchine Learning.
+- 💻 I'm learning Data Science: Python, SQL, Git, Marchine Learning, Banco de dados relacional, ETL, Estatistica, dados na cloud GCP/AWS.
 
 ##
 
