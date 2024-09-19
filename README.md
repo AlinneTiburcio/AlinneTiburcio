@@ -1,6 +1,6 @@
 <h1 align = "center">Hello 🌎! Meu nome é Aline Tibúrcio ❤️</h1>
 
-Aqui eu compartilho alguns dos meus projetos pessoais e colaborativos, além dos desenvolvidos na comunidade DS
+Aqui eu compartilho alguns dos meus projetos pessoais e colaborativos.
 
 - 👩‍🎓 Formada em Analise e Desenvolvimento de Sistemas               
 - 💻 I'm learning Data Science: Python, SQL, Git, , ETL, dados na cloud GCP/AWS.
