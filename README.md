@@ -3,7 +3,7 @@
 Aqui eu compartilho alguns dos meus projetos pessoais e colaborativos.
 
 - 👩‍🎓 Formada em Analise e Desenvolvimento de Sistemas               
-- 💻 I'm learning Data Science: Python, SQL, Git, , ETL, dados na cloud GCP/AWS.
+- 💻 Data Analytics: Python, SQL, Git, , ETL, dados na cloud GCP/AWS.
 
 ##
 
