@@ -1,9 +1,9 @@
-<h1 align = "center">Hello 🌎! Meu nome é Aline Tibúrcio ❤️</h1>
+<h1 align = "center">Hello 🌎! Sejam Bem Vindos ❤️</h1>
 
 Aqui eu compartilho alguns dos meus projetos pessoais e colaborativos.
 
 - 👩‍🎓 Formada em Analise e Desenvolvimento de Sistemas               
-- 💻 Data Analytics: Python, SQL, Git, , ETL, dados na cloud GCP/AWS.
+- 💻 Data Analytics: Python, SQL, Git, ETL, Power Bi, Looker Studio e Dados na cloud GCP/AWS.
 
 ##
 
