@@ -1,4 +1,4 @@
-<h1 align = "center">Hello 🌎! Sejam Bem Vindos ❤️</h1>
+<h1 align = "center">Hello 🌎! Sejam Bem-Vindos ❤️</h1>
 
 Aqui eu compartilho alguns dos meus projetos pessoais e colaborativos.
 
